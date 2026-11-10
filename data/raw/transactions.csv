@@ -1,0 +1,1216 @@
+sale_id,sale_date,client_id,service,price,channel,payment_method
+1,2025-09-05,511,Art Commission,97.97,Instagram,card
+2,2025-11-04,394,Haircut,14.61,Instagram,cash
+3,2025-10-23,142,Beard Trim,10.8,Walk-in,cash
+4,2025-12-02,188,Custom Clothing,71.18,Instagram,cash
+5,2025-11-08,390,Haircut,8.32,WhatsApp,card
+6,2025-05-01,42,Beard Trim,5.35,Instagram,mobile money
+7,2025-08-23,285,Art Commission,102.19,Instagram,cash
+8,2025-05-22,417,Art Commission,88.34,Instagram,cash
+9,2025-06-03,426,Haircut,11.12,Instagram,cash
+10,2025-12-13,734,Haircut,13.02,Instagram,mobile money
+11,2025-10-02,871,Haircut,17.09,Referral,cash
+12,2025-12-25,657,Beard Trim,10.79,Instagram,mobile money
+13,2025-07-06,72,Custom Clothing,,Referral,cash
+14,2025-08-17,368,Art Commission,76.24,whatsapp ,cash
+15,2025-07-31,657,HAIRCUT,11.25,Referral,mobile money
+16,2025-02-27,536,Haircut,14.26,Referral,cash
+17,2025-04-27,413,Custom Clothing,45.46,Walk-in,cash
+18,2025-08-14,393,Haircut,14.77,Instagram,mobile money
+19,2025-02-07,366,Art Commission,111.2,Instagram,cash
+20,2025-12-13,522,Custom Clothing,29.3,WhatsApp,cash
+21,2025-03-07,161,Art Commission,,Referral,cash
+22,2025-04-10,466,Haircut,10.55,Instagram,cash
+23,2025-10-27,186,Beard Trim,11.26,Walk-in,mobile money
+24,2025-02-22,613,Beard Trim,9.52,Referral,cash
+25,2025-12-05,779,Art Commission,50.64,Referral,mobile money
+26,2025-10-15,457,Haircut,18.68,Walk-in,card
+27,2025-02-07,349,Haircut,13.64,WhatsApp,mobile money
+28,2025-10-05,847,Haircut,13.71,Referral,mobile money
+29,2025-09-16,594,HAIRCUT,19.23,Referral,mobile money
+30,2025-10-25,386,Custom Clothing,28.87,Instagram,card
+31,2025-11-14,26,Art Commission,55.82,Instagram,cash
+32,2025-10-13,15,Beard Trim,9.1,WhatsApp,cash
+33,2025-09-02,200,Haircut,10.35,Walk-in,card
+34,2025-05-31,213,Haircut,16.15,Walk-in,cash
+35,2025-10-07,650,Haircut,10.57,Walk-in,mobile money
+36,2025-12-20,451,Haircut,9.19,Instagram,cash
+37,2025-09-02,900,Haircut,10.48,Referral,mobile money
+38,2025-09-27,487,Haircut,13.07,Instagram,cash
+39,2025-07-13,813,Haircut,10.11,Referral,mobile money
+40,2025-10-24,498,Custom Clothing,33.75,Walk-in,cash
+41,2025-12-31,323,Haircut,18.32,Instagram,cash
+42,2025-03-24,644,Art Commission,68.45,Instagram,mobile money
+43,2025-04-12,405,Art Commission,73.29,Referral,mobile money
+44,2025-08-17,248,Haircut,8.66,instagram ,mobile money
+45,2025-07-29,426,Art Commission,72.88,Instagram,mobile money
+46,2025-08-28,599,Art Commission,61.78,Referral,cash
+47,2025-01-28,339,Haircut,15.33,Walk-in,mobile money
+48,2025-07-01,634,Haircut,10.46,Walk-in,cash
+49,2025-09-01,883,Custom Clothing,82.74,Instagram,card
+50,2025-09-02,371,Haircut,19.16,WhatsApp,cash
+51,2025-09-24,266,Haircut,9.2,Instagram,cash
+52,2025-10-14,362,Haircut,9.29,instagram ,card
+53,2025-09-19,755,Art Commission,43.84,Instagram,mobile money
+54,2025-11-03,162,Custom Clothing,65.27,Instagram,cash
+55,2025-09-14,877,Art Commission,44.64,Instagram,mobile money
+56,2025-08-17,373,Art Commission,132.29,Instagram,card
+57,2025-09-08,758,Haircut,17.05,Instagram,cash
+58,2025-02-24,709,Custom Clothing,78.29,Walk-in,card
+59,2025-05-12,706,Haircut,14.31,WhatsApp,cash
+60,2025-08-13,819,Haircut,19.96,Instagram,cash
+61,2025-11-27,167,Custom Clothing,27.87,Instagram,card
+62,2025-10-01,535,Haircut,12.82,WhatsApp,cash
+63,2025-02-18,90,Custom Clothing,46.06,WhatsApp,cash
+64,2025-09-04,270,Art Commission,143.84,Referral,mobile money
+65,2025-04-20,37,CUSTOM CLOTHING,62.5,Instagram,cash
+66,2025-10-18,615,Custom Clothing,77.4,Walk-in,mobile money
+67,2025-11-14,547,Custom Clothing,36.07,Instagram,mobile money
+68,2025-09-04,667,Haircut,19.74,Instagram,cash
+69,2025-09-04,159,Haircut,13.98,Walk-in,card
+70,2025-06-07,299,Haircut,13.92,Walk-in,cash
+71,2025-07-16,609,Haircut,19.65,Walk-in,card
+72,2025-11-24,744,HAIRCUT,12.57,Referral,cash
+73,2025-10-15,798,Beard Trim,7.78,Instagram,mobile money
+74,2025-08-11,67,Haircut,15.02,Instagram,cash
+75,2025-06-18,363,Haircut,9.54,Referral,card
+76,2025-01-29,10,Haircut,11.85,WhatsApp,cash
+77,2025-03-16,737,Haircut,10.32,Instagram,cash
+78,2025-04-08,111,Custom Clothing,31.71,Walk-in,cash
+79,2025-06-20,740,Custom Clothing,81.3,Instagram,card
+80,2025-12-17,141,Art Commission,100.72,Instagram,mobile money
+81,2025-08-06,14,Custom Clothing,48.31,Referral,cash
+82,2025-04-26,792,Haircut,12.9,Instagram,cash
+83,2025-02-26,395,Art Commission,81.78,Walk-in,cash
+84,2025-06-07,383,Haircut,15.6,Walk-in,cash
+85,2025-11-11,583,Haircut,19.12,Instagram,mobile money
+86,2025-06-24,248,Haircut,19.19,Instagram,mobile money
+87,2025-10-29,622,Art Commission,76.98,Instagram,mobile money
+88,2025-11-07,387,Haircut,11.95,WhatsApp,cash
+89,2025-03-01,246,Haircut,13.41,Referral,cash
+90,2025-09-09,356,Custom Clothing,61.92,walk-in ,mobile money
+91,2025-12-21,6,Haircut,13.54,Instagram,cash
+92,2025-07-01,272,Custom Clothing,67.82,Referral,card
+93,2025-01-29,533,Haircut,14.65,Instagram,cash
+94,2025-12-11,125,Haircut,,Walk-in,cash
+95,2025-11-30,107,Haircut,12.15,Referral,mobile money
+96,2025-08-12,591,Custom Clothing,49.61,Walk-in,cash
+97,2025-08-22,386,Haircut,9.14,Instagram,mobile money
+98,2025-04-16,123,Haircut,9.99,Instagram,cash
+99,2025-11-12,674,Haircut,16.68,Instagram,cash
+100,2025-08-04,698,Beard Trim,7.72,Walk-in,cash
+101,2025-01-20,32,Beard Trim,6.5,WhatsApp,cash
+102,2025-10-02,182,Custom Clothing,61.57,Instagram,card
+103,2025-12-18,334,Haircut,17.07,Walk-in,cash
+104,2025-11-15,659,Beard Trim,6.8,Referral,card
+105,2025-05-13,67,Art Commission,129.21,Instagram,mobile money
+106,2025-01-30,726,Art Commission,141.3,Instagram,cash
+107,2025-12-15,288,Haircut,15.17,Instagram,cash
+108,2025-12-15,113,Haircut,16.03,Referral,cash
+109,2025-08-15,778,Haircut,8.63,Walk-in,mobile money
+110,2025-09-20,79,Beard Trim,11.62,Referral,card
+111,2025-07-22,117,Haircut,12.71,WhatsApp,cash
+112,2025-07-07,855,Haircut,19.09,Referral,card
+113,2025-03-05,468,Haircut,14.95,WhatsApp,cash
+114,2025-02-22,417,Custom Clothing,25.3,Referral,cash
+115,2025-04-25,619,Haircut,8.46,WhatsApp,cash
+116,2025-11-17,568,Beard Trim,9.76,Referral,mobile money
+117,2025-03-17,553,Art Commission,97.52,Referral,cash
+118,2025-04-22,21,Art Commission,33.18,Referral,cash
+119,2025-08-21,497,Haircut,16.92,WhatsApp,cash
+120,2025-04-17,251,Custom Clothing,80.39,Walk-in,card
+121,2025-03-25,727,Custom Clothing,57.27,Referral,cash
+122,2025-08-25,455,Custom Clothing,55.27,Walk-in,cash
+123,2025-06-18,112,Haircut,8.07,WhatsApp,cash
+124,2025-09-15,798,Haircut,17.44,Walk-in,card
+125,2025-12-08,256,Haircut,11.97,Referral,cash
+126,2025-03-20,245,Haircut,,Referral,mobile money
+127,2025-12-08,843,Haircut,12.48,WhatsApp,cash
+128,2025-12-05,698,Haircut,14.78,Instagram,cash
+129,2025-11-15,774,Haircut,11.24,Referral,mobile money
+130,2025-09-16,596,Custom Clothing,,Referral,mobile money
+131,2025-09-13,820,Haircut,,WhatsApp,cash
+132,2025-09-19,104,Beard Trim,8.48,WhatsApp,mobile money
+133,2025-10-05,540,Custom Clothing,59.87,Walk-in,card
+134,2025-01-10,265,Haircut,19.58,Walk-in,cash
+135,2025-12-20,359,Custom Clothing,,Instagram,mobile money
+136,2025-09-02,215,Haircut,18.27,WhatsApp,mobile money
+137,2025-11-01,185,Beard Trim,6.31,Instagram,cash
+138,2025-06-21,399,Haircut,15.13,Referral,card
+139,2025-01-08,827,Art Commission,135.38,Referral,cash
+140,2025-08-07,572,Haircut,12.49,Walk-in,cash
+141,2025-08-07,315,Haircut,9.21,Instagram,mobile money
+142,2025-07-13,391,Haircut,17.73,Instagram,card
+143,2025-06-07,477,Beard Trim,8.37,WhatsApp,card
+144,2025-05-02,221,Custom Clothing,61.69,Walk-in,card
+145,2025-08-14,470,HAIRCUT,19.79,Instagram,card
+146,2025-06-21,627,Haircut,15.29,Referral,cash
+147,2025-12-23,219,Haircut,13.1,Instagram,mobile money
+148,2025-03-30,527,Custom Clothing,49.05,WhatsApp,card
+149,2025-05-30,638,Haircut,13.01,Instagram,card
+150,2025-05-20,468,Haircut,9.42,Instagram,cash
+151,2025-08-19,263,Art Commission,125.37,Instagram,cash
+152,2025-08-04,499,Beard Trim,10.86,Walk-in,cash
+153,2025-09-20,714,Haircut,11.41,Walk-in,cash
+154,2025-12-18,200,Custom Clothing,44.75,Referral,cash
+155,2025-05-17,518,Haircut,18.49,Walk-in,card
+156,2025-10-05,613,Custom Clothing,26.56,Instagram,mobile money
+157,2025-01-15,290,Haircut,14.25,Instagram,cash
+158,2025-05-07,349,Custom Clothing,55.14,Instagram,cash
+159,2025-07-23,800,Art Commission,112.82,WhatsApp,card
+160,2025-01-18,328,Art Commission,49.61,Instagram,cash
+161,2025-09-12,539,Haircut,16.02,WhatsApp,mobile money
+162,2025-10-01,135,Beard Trim,7.64,Instagram,cash
+163,2025-10-22,834,Haircut,15.42,Instagram,cash
+164,2025-08-10,538,Haircut,8.48,instagram ,cash
+165,2025-09-08,685,Custom Clothing,55.01,Instagram,mobile money
+166,2025-06-28,543,Haircut,14.27,Referral,cash
+167,2025-01-24,320,Art Commission,55.72,Walk-in,card
+168,2025-02-23,307,Art Commission,46.75,Instagram,cash
+169,2025-09-24,632,Haircut,10.26,Referral,cash
+170,2025-12-30,774,Beard Trim,7.41,Referral,mobile money
+171,2025-01-10,115,Haircut,9.16,WhatsApp,cash
+172,2025-08-23,761,Custom Clothing,86.58,WhatsApp,cash
+173,2025-10-23,748,Haircut,12.86,Referral,card
+174,2025-11-14,99,Beard Trim,10.66,Referral,mobile money
+175,2025-08-19,98,Haircut,19.69,Referral,cash
+176,2025-09-13,626,Haircut,8.97,Walk-in,cash
+177,2025-10-07,759,Haircut,15.82,Referral,mobile money
+178,2025-11-23,355,Beard Trim,11.1,Instagram,card
+179,2025-03-06,577,Beard Trim,9.44,Referral,mobile money
+180,2025-12-12,900,Art Commission,81.48,WhatsApp,mobile money
+181,2025-01-15,291,Beard Trim,8.02,Instagram,card
+182,2025-11-17,203,Beard Trim,5.25,Referral,cash
+183,2025-02-11,893,Custom Clothing,59.75,WhatsApp,cash
+184,2025-04-08,253,Haircut,19.92,Instagram,mobile money
+185,2025-01-03,426,Art Commission,145.04,Walk-in,mobile money
+186,2025-07-16,398,Custom Clothing,27.63,WhatsApp,mobile money
+187,2025-06-05,471,Haircut,16.47,WhatsApp,card
+188,2025-03-27,242,Haircut,11.62,Instagram,cash
+189,2025-07-18,612,Art Commission,138.36,Instagram,cash
+190,2025-07-01,623,Haircut,,Referral,card
+191,2025-10-28,181,Beard Trim,11.55,Instagram,cash
+192,2025-12-03,433,Haircut,18.05,Instagram,mobile money
+193,2025-09-23,52,Haircut,9.41,Instagram,card
+194,2025-03-07,199,Art Commission,37.18,Instagram,cash
+195,2025-05-21,889,Haircut,18.02,Walk-in,card
+196,2025-12-08,456,Haircut,9.87,Referral,card
+197,2025-02-18,561,Custom Clothing,59.77,Referral,mobile money
+198,2025-07-02,800,Beard Trim,11.41,Referral,cash
+199,2025-12-16,643,Haircut,14.81,Walk-in,card
+200,2025-12-18,714,Haircut,12.77,Instagram,cash
+201,2025-07-04,641,Art Commission,83.4,Instagram,card
+202,2025-09-28,449,Beard Trim,5.44,Instagram,cash
+203,2025-07-20,570,Custom Clothing,87.97,Instagram,mobile money
+204,2025-10-24,260,Haircut,11.73,Instagram,mobile money
+205,2025-01-18,802,Haircut,10.27,Instagram,card
+206,2025-03-17,162,Haircut,11.43,Instagram,card
+207,2025-09-11,796,Haircut,19.57,Referral,cash
+208,2025-04-25,791,Custom Clothing,31.13,Referral,card
+209,2025-09-27,129,Haircut,18.41,WhatsApp,cash
+210,2025-06-12,640,Custom Clothing,71.01,Referral,mobile money
+211,2025-12-01,891,Custom Clothing,78.95,Walk-in,cash
+212,2025-11-12,515,Custom Clothing,88.43,Instagram,mobile money
+213,2025-08-02,307,Haircut,18.11,Walk-in,cash
+214,2025-10-29,792,Art Commission,143.21,Instagram,card
+215,2025-05-11,462,Art Commission,45.23,Walk-in,card
+216,2025-08-02,110,Art Commission,125.49,Walk-in,cash
+217,2025-04-10,225,Haircut,14.55,Walk-in,cash
+218,2025-11-24,615,Haircut,14.52,Instagram,mobile money
+219,2025-11-13,410,Beard Trim,11.29,Referral,card
+220,2025-12-05,196,Haircut,19.66,Referral,cash
+221,2025-11-28,720,Haircut,16.46,Referral,cash
+222,2025-12-21,109,Haircut,13.8,Referral,cash
+223,2025-04-23,198,Custom Clothing,54.67,Walk-in,card
+224,2025-12-13,420,Beard Trim,7.7,Instagram,card
+225,2025-08-28,36,Haircut,12.34,Referral,cash
+226,2025-07-08,349,Beard Trim,7.74,Walk-in,card
+227,2025-08-24,819,Haircut,9.08,instagram ,mobile money
+228,2025-06-08,848,Custom Clothing,30.03,Instagram,mobile money
+229,2025-05-18,785,Custom Clothing,75.69,WhatsApp,cash
+230,2025-04-29,292,Haircut,13.35,Referral,cash
+231,2025-02-14,59,Haircut,19.17,Walk-in,cash
+232,2025-08-03,734,Haircut,15.35,Referral,cash
+233,2025-12-01,336,BEARD TRIM,5.25,Walk-in,cash
+234,2025-09-16,674,Custom Clothing,35.24,Walk-in,cash
+235,2025-08-11,108,Beard Trim,6.44,Instagram,cash
+236,2025-07-10,602,ART COMMISSION,147.09,Walk-in,card
+237,2025-07-23,528,Haircut,10.62,Referral,cash
+238,2025-04-15,829,Art Commission,91.89,Instagram,mobile money
+239,2025-11-13,92,Haircut,19.23,Referral,cash
+240,2025-04-10,368,Haircut,19.73,Instagram,card
+241,2025-10-13,891,Art Commission,58.36,Referral,cash
+242,2025-10-25,351,Art Commission,35.89,Referral,mobile money
+243,2025-08-29,593,Haircut,9.84,Referral,mobile money
+244,2025-11-24,145,Custom Clothing,29.12,Referral,cash
+245,2025-05-19,656,Custom Clothing,37.68,WhatsApp,card
+246,2025-11-29,249,Beard Trim,8.98,Walk-in,cash
+247,2025-10-16,515,CUSTOM CLOTHING,84.31,Referral,card
+248,2025-11-06,792,Haircut,14.45,Referral,cash
+249,2025-09-27,595,Haircut,15.51,Instagram,cash
+250,2025-11-19,427,Haircut,10.42,Instagram,cash
+251,2025-12-30,172,Custom Clothing,77.04,Walk-in,mobile money
+252,2025-07-07,308,Beard Trim,9.32,Instagram,cash
+253,2025-11-10,765,Haircut,18.37,Walk-in,card
+254,2025-10-21,195,Haircut,19.39,Walk-in,cash
+255,2025-07-19,591,Haircut,12.17,Referral,cash
+256,2025-12-12,437,Art Commission,40.87,Instagram,cash
+257,2025-06-28,289,Art Commission,57.11,Referral,mobile money
+258,2025-08-26,645,Haircut,13.25,Walk-in,mobile money
+259,2025-02-26,326,Haircut,19.35,Referral,cash
+260,2025-04-22,259,Custom Clothing,49.59,Instagram,mobile money
+261,2025-11-18,477,Haircut,17.25,Walk-in,cash
+262,2025-06-29,682,Art Commission,94.86,Instagram,cash
+263,2025-06-28,778,Haircut,10.19,Referral,card
+264,2025-05-01,567,Haircut,,Instagram,cash
+265,2025-08-01,596,BEARD TRIM,9.57,WhatsApp,cash
+266,2025-11-08,709,Haircut,16.07,Instagram,card
+267,2025-12-03,243,Haircut,13.22,Walk-in,cash
+268,2025-02-08,226,Haircut,10.74,Instagram,mobile money
+269,2025-08-29,436,Haircut,16.66,Referral,card
+270,2025-07-24,568,Haircut,10.03,Walk-in,mobile money
+271,2025-09-11,582,Haircut,19.24,Walk-in,card
+272,2025-07-17,139,Haircut,10.25,Instagram,mobile money
+273,2025-06-29,703,Haircut,9.29,Instagram,cash
+274,2025-07-25,328,Custom Clothing,57.35,Instagram,card
+275,2025-08-31,790,Custom Clothing,58.77,WhatsApp,card
+276,2025-08-05,652,Haircut,14.1,Walk-in,mobile money
+277,2025-07-26,885,Haircut,13.24,Instagram,cash
+278,2025-11-11,569,Custom Clothing,89.66,WhatsApp,card
+279,2025-10-21,475,Beard Trim,8.4,Instagram,mobile money
+280,2025-06-08,170,Beard Trim,8.35,Walk-in,cash
+281,2025-11-06,359,Haircut,13.06,Referral,mobile money
+282,2025-11-21,773,Haircut,8.8,WhatsApp,cash
+283,2025-03-21,344,Haircut,15.12,Referral,cash
+284,2025-09-01,49,Haircut,10.74,Walk-in,card
+285,2025-05-17,221,Custom Clothing,66.44,WhatsApp,cash
+286,2025-10-19,536,Haircut,8.61,Instagram,cash
+287,2025-04-28,567,Haircut,19.78,WhatsApp,cash
+288,2025-09-29,886,Haircut,13.63,Referral,cash
+289,2025-05-04,841,Custom Clothing,83.29,WhatsApp,mobile money
+290,2025-08-08,479,Haircut,13.71,Instagram,mobile money
+291,2025-12-18,500,Art Commission,37.24,instagram ,card
+292,2025-06-23,721,Haircut,17.87,Referral,cash
+293,2025-11-28,44,Beard Trim,9.54,Walk-in,card
+294,2025-12-28,536,Haircut,17.38,Walk-in,mobile money
+295,2025-11-27,427,Art Commission,81.38,WhatsApp,mobile money
+296,2025-03-27,705,Beard Trim,9.47,Referral,cash
+297,2025-11-12,721,Beard Trim,10.99,Instagram,cash
+298,2025-01-19,591,Art Commission,105.73,Walk-in,mobile money
+299,2025-06-27,592,Art Commission,71.72,instagram ,mobile money
+300,2025-11-26,623,Custom Clothing,68.06,Instagram,cash
+301,2025-10-04,523,Art Commission,110.62,Instagram,mobile money
+302,2025-08-15,206,Haircut,19.53,Referral,cash
+303,2025-06-25,257,Custom Clothing,49.11,Referral,cash
+304,2025-11-10,668,Custom Clothing,52.63,Walk-in,mobile money
+305,2025-10-10,557,Beard Trim,10.68,Walk-in,card
+306,2025-07-24,215,Haircut,14.07,Referral,cash
+307,2025-12-02,791,Haircut,16.84,Referral,mobile money
+308,2025-04-24,883,Custom Clothing,,WhatsApp,mobile money
+309,2025-03-29,564,Haircut,10.59,Walk-in,cash
+310,2025-09-20,206,Haircut,16.94,Referral,card
+311,2025-12-24,845,Haircut,9.57,Walk-in,mobile money
+312,2025-05-01,214,HAIRCUT,10.38,Walk-in,card
+313,2025-05-02,390,Haircut,15.52,WhatsApp,mobile money
+314,2025-03-14,773,Haircut,16.97,Walk-in,card
+315,2025-11-23,469,Haircut,18.74,Walk-in,cash
+316,2025-04-22,219,Haircut,11.27,Instagram,cash
+317,2025-08-05,73,Haircut,9.33,Walk-in,mobile money
+318,2025-12-29,325,Custom Clothing,87.14,Walk-in,mobile money
+319,2025-01-08,605,Haircut,9.85,Referral,cash
+320,2025-08-23,644,Beard Trim,6.38,Walk-in,cash
+321,2025-08-08,201,Beard Trim,,Instagram,mobile money
+322,2025-11-08,143,Haircut,14.35,WhatsApp,cash
+323,2025-06-13,632,Haircut,18.59,Instagram,cash
+324,2025-07-04,144,Custom Clothing,74.44,WhatsApp,mobile money
+325,2025-03-28,58,Art Commission,114.98,Instagram,mobile money
+326,2025-10-20,438,Custom Clothing,36.39,Walk-in,mobile money
+327,2025-11-02,514,Art Commission,72.92,Walk-in,card
+328,2025-03-13,220,Custom Clothing,56.1,Referral,cash
+329,2025-06-27,191,Custom Clothing,34.58,Instagram,mobile money
+330,2025-12-02,213,Haircut,11.28,WhatsApp,cash
+331,2025-01-02,309,Art Commission,67.0,Walk-in,cash
+332,2025-05-22,9,Haircut,9.53,Walk-in,mobile money
+333,2025-08-23,11,Custom Clothing,60.77,Walk-in,card
+334,2025-06-05,334,Beard Trim,9.94,Instagram,mobile money
+335,2025-05-11,18,Haircut,8.84,Walk-in,cash
+336,2025-07-21,287,Custom Clothing,56.27,Instagram,mobile money
+337,2025-04-03,523,Haircut,17.39,Instagram,card
+338,2025-08-14,29,Art Commission,119.76,Referral,card
+339,2025-10-10,557,Haircut,17.78,Walk-in,mobile money
+340,2025-08-29,560,Beard Trim,8.14,Instagram,cash
+341,2025-02-20,517,Haircut,17.85,Instagram,mobile money
+342,2025-11-19,564,Beard Trim,6.69,Instagram,card
+343,2025-03-31,729,Art Commission,73.3,Instagram,mobile money
+344,2025-10-27,64,Custom Clothing,36.46,Referral,mobile money
+345,2025-06-15,152,Art Commission,86.1,Instagram,card
+346,2025-11-01,286,Art Commission,77.05,WhatsApp,cash
+347,2025-04-14,620,Beard Trim,6.69,Instagram,cash
+348,2025-04-05,786,Haircut,17.02,Instagram,mobile money
+349,2025-08-03,827,Custom Clothing,45.4,WhatsApp,mobile money
+350,2025-01-19,524,Haircut,11.27,Instagram,mobile money
+351,2025-04-22,370,Custom Clothing,33.51,Walk-in,cash
+352,2025-10-15,371,Haircut,13.27,WhatsApp,cash
+353,2025-11-17,54,Custom Clothing,44.69,WhatsApp,mobile money
+354,2025-02-14,419,Custom Clothing,49.0,Referral,mobile money
+355,2025-11-29,462,Haircut,10.83,Instagram,cash
+356,2025-11-05,188,Custom Clothing,74.61,Walk-in,card
+357,2025-11-26,692,Art Commission,141.6,WhatsApp,cash
+358,2025-10-07,731,Art Commission,89.75,WhatsApp,cash
+359,2025-09-30,272,Haircut,15.72,Instagram,cash
+360,2025-08-13,823,Custom Clothing,81.37,Walk-in,cash
+361,2025-09-23,97,Beard Trim,11.99,Instagram,cash
+362,2025-12-10,820,Haircut,15.36,Instagram,mobile money
+363,2025-02-23,692,Haircut,18.68,Referral,mobile money
+364,2025-05-29,202,Haircut,,Instagram,mobile money
+365,2025-02-09,586,Custom Clothing,76.44,Instagram,cash
+366,2025-12-17,280,Haircut,13.53,Instagram,cash
+367,2025-07-16,720,Art Commission,39.74,Walk-in,cash
+368,2025-09-30,145,Custom Clothing,26.03,Instagram,card
+369,2025-11-18,221,Haircut,13.73,Walk-in,cash
+370,2025-12-29,277,Beard Trim,8.46,Instagram,mobile money
+371,2025-03-25,180,Art Commission,78.88,WhatsApp,mobile money
+372,2025-11-06,300,Haircut,14.82,Instagram,mobile money
+373,2025-12-01,543,Haircut,14.63,Walk-in,cash
+374,2025-01-28,570,Haircut,18.04,Instagram,card
+375,2025-10-24,499,Haircut,9.3,Instagram,cash
+376,2025-06-13,171,Haircut,10.7,Instagram,cash
+377,2025-09-22,183,Beard Trim,10.55,Instagram,mobile money
+378,2025-08-09,828,Haircut,18.17,Instagram,card
+379,2025-05-06,227,Haircut,19.94,Walk-in,mobile money
+380,2025-03-12,93,Art Commission,134.75,Referral,cash
+381,2025-03-04,409,Custom Clothing,82.84,instagram ,mobile money
+382,2025-02-25,7,Beard Trim,7.2,Walk-in,mobile money
+383,2025-09-18,309,Art Commission,78.2,Walk-in,cash
+384,2025-06-12,770,Haircut,11.22,Instagram,mobile money
+385,2025-04-18,241,Haircut,15.28,Walk-in,cash
+386,2025-10-05,634,Beard Trim,11.57,Instagram,mobile money
+387,2025-10-04,441,Art Commission,71.36,Instagram,mobile money
+388,2025-08-17,320,BEARD TRIM,8.9,Walk-in,mobile money
+389,2025-12-14,596,Haircut,11.56,WhatsApp,mobile money
+390,2025-06-24,536,Beard Trim,6.19,WhatsApp,cash
+391,2025-11-16,287,Custom Clothing,37.69,WhatsApp,mobile money
+392,2025-02-11,202,Haircut,8.7,Walk-in,card
+393,2025-10-19,826,Custom Clothing,86.7,Instagram,cash
+394,2025-12-28,152,Custom Clothing,51.19,Instagram,cash
+395,2025-11-19,864,Haircut,18.01,Instagram,mobile money
+396,2025-08-31,425,Haircut,16.18,Instagram,card
+397,2025-09-15,898,Art Commission,53.03,Instagram,card
+398,2025-06-12,318,Haircut,10.11,Walk-in,mobile money
+399,2025-10-01,509,Haircut,17.74,Instagram,card
+400,2025-10-29,554,Haircut,11.18,Instagram,cash
+401,2025-12-31,305,Haircut,18.96,Referral,cash
+402,2025-08-02,197,Beard Trim,5.98,Walk-in,card
+403,2025-02-03,469,Art Commission,111.33,WhatsApp,mobile money
+404,2025-09-05,597,Haircut,17.77,Instagram,card
+405,2025-03-05,236,Beard Trim,6.65,Walk-in,card
+406,2025-04-30,691,Beard Trim,6.93,Instagram,mobile money
+407,2025-06-03,575,HAIRCUT,19.57,Walk-in,mobile money
+408,2025-10-17,150,Art Commission,61.75,instagram ,mobile money
+409,2025-04-04,845,Haircut,13.16,Instagram,cash
+410,2025-03-27,40,Beard Trim,8.03,Referral,mobile money
+411,2025-01-26,589,Custom Clothing,41.45,Instagram,card
+412,2025-11-27,396,Custom Clothing,75.43,Instagram,cash
+413,2025-10-06,589,Haircut,17.26,WhatsApp,card
+414,2025-01-23,697,Beard Trim,7.65,Instagram,mobile money
+415,2025-01-17,619,Haircut,18.02,Walk-in,card
+416,2025-08-24,586,Haircut,10.56,Walk-in,mobile money
+417,2025-05-16,757,Haircut,8.05,Instagram,cash
+418,2025-09-05,632,Art Commission,98.54,Walk-in,cash
+419,2025-07-12,733,Haircut,19.93,Instagram,cash
+420,2025-12-11,363,Beard Trim,5.27,Referral,cash
+421,2025-05-18,183,Custom Clothing,38.52,Instagram,card
+422,2025-10-01,212,Haircut,14.23,Instagram,mobile money
+423,2025-01-31,551,Haircut,17.72,Instagram,mobile money
+424,2025-12-20,479,Haircut,9.07,WhatsApp,cash
+425,2025-12-26,70,Custom Clothing,50.69,Referral,cash
+426,2025-10-19,184,Art Commission,119.65,WhatsApp,cash
+427,2025-07-23,871,Haircut,12.46,Referral,card
+428,2025-04-20,654,Art Commission,52.66,Referral,cash
+429,2025-11-10,680,Haircut,10.35,Walk-in,card
+430,2025-10-18,178,Art Commission,79.21,WhatsApp,mobile money
+431,2025-04-20,58,Beard Trim,8.36,Walk-in,card
+432,2025-07-18,263,Art Commission,133.42,Walk-in,cash
+433,2025-07-22,772,CUSTOM CLOTHING,66.75,Referral,cash
+434,2025-11-14,456,Art Commission,112.85,Walk-in,card
+435,2025-10-03,707,Haircut,19.8,Instagram,card
+436,2025-09-20,439,Haircut,12.94,walk-in ,cash
+437,2025-09-22,442,Haircut,12.84,Instagram,mobile money
+438,2025-05-11,541,Custom Clothing,85.02,Referral,card
+439,2025-06-19,864,Art Commission,59.51,Walk-in,cash
+440,2025-01-26,394,CUSTOM CLOTHING,72.44,Referral,cash
+441,2025-11-02,537,Beard Trim,10.28,Walk-in,cash
+442,2025-07-12,828,Haircut,9.17,Referral,cash
+443,2025-07-14,336,Art Commission,86.19,Instagram,cash
+444,2025-04-30,756,Haircut,10.41,WhatsApp,card
+445,2025-04-15,482,Haircut,10.22,Walk-in,cash
+446,2025-09-02,792,Art Commission,85.66,Instagram,mobile money
+447,2025-04-25,422,Beard Trim,7.03,Instagram,mobile money
+448,2025-02-05,567,Custom Clothing,,Instagram,cash
+449,2025-10-28,291,Haircut,18.89,Walk-in,cash
+450,2025-06-21,572,Custom Clothing,77.18,Referral,mobile money
+451,2025-06-23,294,Haircut,11.19,WhatsApp,mobile money
+452,2025-07-11,549,Beard Trim,6.92,Referral,mobile money
+453,2025-11-10,710,Art Commission,60.57,Walk-in,cash
+454,2025-05-31,392,Haircut,9.62,Walk-in,cash
+455,2025-10-25,387,Haircut,19.33,Referral,cash
+456,2025-12-15,290,Haircut,12.82,Referral,mobile money
+457,2025-09-25,658,Beard Trim,6.57,Instagram,card
+458,2025-07-11,533,Haircut,18.16,WhatsApp,card
+459,2025-10-22,465,Art Commission,77.9,Walk-in,card
+460,2025-07-21,23,CUSTOM CLOTHING,27.28,Referral,cash
+461,2025-07-05,100,Custom Clothing,35.53,WhatsApp,card
+462,2025-08-13,7,Haircut,15.67,Referral,cash
+463,2025-05-30,766,Beard Trim,10.48,Instagram,card
+464,2025-02-25,767,Haircut,10.53,Walk-in,mobile money
+465,2025-07-05,62,Custom Clothing,84.63,Instagram,card
+466,2025-03-07,42,Custom Clothing,80.31,Referral,cash
+467,2025-07-04,704,Custom Clothing,80.14,Instagram,mobile money
+468,2025-08-23,473,Beard Trim,6.59,Referral,mobile money
+469,2025-12-13,279,Haircut,8.61,WhatsApp,cash
+470,2025-01-21,554,Custom Clothing,81.38,Instagram,cash
+471,2025-09-13,213,Haircut,11.67,Walk-in,card
+472,2025-07-21,179,Haircut,15.43,Referral,cash
+473,2025-01-12,331,Haircut,17.12,Walk-in,cash
+474,2025-05-02,807,Haircut,9.54,Instagram,cash
+475,2025-03-04,691,Haircut,17.37,Instagram,cash
+476,2025-04-18,172,Haircut,19.26,Walk-in,cash
+477,2025-05-12,506,Haircut,16.74,Referral,card
+478,2025-06-30,797,Custom Clothing,53.68,Walk-in,cash
+479,2025-08-14,857,Custom Clothing,81.98,Instagram,mobile money
+480,2025-01-01,687,Haircut,14.33,Walk-in,cash
+481,2025-03-25,116,Haircut,16.94,Walk-in,cash
+482,2025-02-20,217,Haircut,17.85,Instagram,cash
+483,2025-08-21,197,Custom Clothing,73.71,Referral,mobile money
+484,2025-06-03,136,Haircut,11.45,Instagram,mobile money
+485,2025-08-20,158,Haircut,9.41,Walk-in,cash
+486,2025-04-20,285,Haircut,10.86,WhatsApp,cash
+487,2025-01-14,500,Haircut,14.03,Walk-in,cash
+488,2025-12-16,359,Haircut,14.06,Referral,cash
+489,2025-02-27,379,Custom Clothing,62.87,Instagram,mobile money
+490,2025-03-08,222,Custom Clothing,50.68,Instagram,cash
+491,2025-03-18,136,Art Commission,124.43,Instagram,mobile money
+492,2025-12-27,900,Custom Clothing,84.35,Referral,card
+493,2025-09-12,540,Custom Clothing,41.04,Referral,card
+494,2025-09-10,207,Haircut,,Instagram,mobile money
+495,2025-12-28,729,Art Commission,111.36,Instagram,cash
+496,2025-02-17,748,Custom Clothing,59.0,Instagram,mobile money
+497,2025-12-25,871,Haircut,10.26,Walk-in,cash
+498,2025-04-13,144,Custom Clothing,76.69,Referral,mobile money
+499,2025-09-14,576,Haircut,19.53,Referral,card
+500,2025-07-07,883,Custom Clothing,71.92,WhatsApp,cash
+501,2025-06-24,727,Art Commission,140.14,Instagram,mobile money
+502,2025-12-13,203,Beard Trim,11.89,Referral,cash
+503,2025-03-19,804,Beard Trim,7.46,Walk-in,cash
+504,2025-12-31,380,Custom Clothing,66.48,Instagram,mobile money
+505,2025-06-22,441,Custom Clothing,55.81,WhatsApp,cash
+506,2025-09-22,503,Art Commission,148.4,Instagram,mobile money
+507,2025-12-23,695,Haircut,9.13,Referral,card
+508,2025-02-02,109,Art Commission,79.48,Referral,card
+509,2025-12-11,486,Haircut,18.51,WhatsApp,cash
+510,2025-08-27,736,Haircut,,Walk-in,cash
+511,2025-10-09,494,Haircut,17.45,Instagram,mobile money
+512,2025-03-19,248,Art Commission,75.93,Referral,cash
+513,2025-08-15,51,Haircut,19.76,Referral,card
+514,2025-09-29,495,Haircut,18.6,Walk-in,cash
+515,2025-07-20,634,Haircut,11.62,Referral,cash
+516,2025-03-22,495,Haircut,17.24,Instagram,card
+517,2025-04-30,882,Haircut,12.04,Walk-in,mobile money
+518,2025-11-22,543,Art Commission,102.76,whatsapp ,mobile money
+519,2025-01-20,458,Haircut,15.9,Instagram,mobile money
+520,2025-10-10,50,Art Commission,129.55,Walk-in,cash
+521,2025-12-31,503,Beard Trim,5.17,WhatsApp,cash
+522,2025-01-05,152,Haircut,10.64,referral ,cash
+523,2025-03-24,653,Haircut,16.54,WhatsApp,mobile money
+524,2025-09-30,146,Custom Clothing,61.63,Walk-in,cash
+525,2025-02-03,817,Haircut,13.95,WhatsApp,card
+526,2025-09-03,272,Haircut,8.66,Instagram,cash
+527,2025-10-03,391,Beard Trim,7.44,Walk-in,mobile money
+528,2025-09-02,131,Beard Trim,11.06,Walk-in,mobile money
+529,2025-06-17,190,Art Commission,33.71,Referral,mobile money
+530,2025-10-07,830,Haircut,12.76,WhatsApp,cash
+531,2025-09-04,256,Custom Clothing,86.43,Referral,mobile money
+532,2025-04-14,462,Art Commission,36.11,Referral,cash
+533,2025-08-25,884,Haircut,17.0,Walk-in,cash
+534,2025-11-29,562,CUSTOM CLOTHING,41.74,Walk-in,cash
+535,2025-09-27,38,Haircut,18.4,Walk-in,cash
+536,2025-07-25,322,Haircut,16.95,Instagram,card
+537,2025-05-31,349,Custom Clothing,82.57,Walk-in,cash
+538,2025-02-16,249,Haircut,10.59,WhatsApp,cash
+539,2025-04-30,218,Haircut,14.38,Referral,card
+540,2025-01-07,453,Art Commission,123.51,Referral,mobile money
+541,2025-12-28,340,Beard Trim,6.72,Walk-in,card
+542,2025-04-21,265,Custom Clothing,40.0,Walk-in,card
+543,2025-11-10,372,Art Commission,33.26,Instagram,cash
+544,2025-03-28,310,Beard Trim,11.71,Walk-in,mobile money
+545,2025-05-16,206,Haircut,16.52,Walk-in,cash
+546,2025-07-06,408,Haircut,15.63,Instagram,cash
+547,2025-06-01,849,Haircut,16.93,Instagram,cash
+548,2025-11-06,456,Haircut,14.38,Referral,card
+549,2025-12-20,538,Art Commission,87.14,Walk-in,cash
+550,2025-11-28,886,Haircut,13.39,Walk-in,card
+551,2025-03-21,553,Haircut,15.69,Instagram,cash
+552,2025-10-30,201,Haircut,10.42,Walk-in,cash
+553,2025-03-18,359,Haircut,18.66,Walk-in,cash
+554,2025-12-08,440,Beard Trim,10.68,Walk-in,cash
+555,2025-08-10,428,Haircut,12.19,Walk-in,cash
+556,2025-06-06,135,Haircut,14.94,Instagram,card
+557,2025-03-23,96,Haircut,9.69,WhatsApp,card
+558,2025-01-07,315,Haircut,19.67,Instagram,cash
+559,2025-05-01,823,Custom Clothing,83.69,Walk-in,card
+560,2025-12-08,646,Haircut,19.06,Instagram,cash
+561,2025-11-05,758,Haircut,11.99,Walk-in,cash
+562,2025-12-23,158,Haircut,10.03,instagram ,cash
+563,2025-02-24,373,Art Commission,55.41,WhatsApp,cash
+564,2025-09-04,524,Custom Clothing,30.85,Walk-in,cash
+565,2025-05-05,391,Custom Clothing,32.81,Referral,card
+566,2025-08-19,376,Custom Clothing,29.63,Instagram,cash
+567,2025-05-31,324,Art Commission,148.78,Instagram,mobile money
+568,2025-05-16,47,Haircut,8.89,Walk-in,cash
+569,2025-08-29,772,Haircut,9.59,Walk-in,card
+570,2025-04-03,840,Custom Clothing,78.77,Walk-in,mobile money
+571,2025-07-25,73,Haircut,14.96,WhatsApp,cash
+572,2025-09-22,373,Art Commission,122.93,referral ,cash
+573,2025-03-09,467,Haircut,15.57,WhatsApp,card
+574,2025-12-13,706,Art Commission,135.86,Instagram,mobile money
+575,2025-08-06,889,Beard Trim,9.47,Referral,mobile money
+576,2025-11-12,375,Custom Clothing,58.94,Walk-in,cash
+577,2025-09-23,675,Beard Trim,9.99,Referral,mobile money
+578,2025-10-11,844,Custom Clothing,54.08,WhatsApp,cash
+579,2025-10-12,748,Beard Trim,7.42,Referral,cash
+580,2025-11-28,262,HAIRCUT,13.61,WhatsApp,card
+581,2025-09-11,736,Haircut,10.04,Referral,card
+582,2025-05-14,372,Custom Clothing,76.78,Instagram,card
+583,2025-02-23,16,Haircut,11.13,Referral,mobile money
+584,2025-09-08,683,Haircut,9.84,Walk-in,cash
+585,2025-02-06,752,Beard Trim,6.72,WhatsApp,card
+586,2025-04-29,310,Custom Clothing,79.73,Referral,cash
+587,2025-02-03,406,Haircut,11.96,Instagram,cash
+588,2025-08-21,328,Haircut,16.23,Instagram,cash
+589,2025-03-24,106,Haircut,18.28,Instagram,mobile money
+590,2025-09-10,896,Haircut,8.93,Walk-in,cash
+591,2025-11-04,21,Beard Trim,10.36,Instagram,cash
+592,2025-11-12,501,Haircut,11.69,Referral,card
+593,2025-05-26,14,Haircut,10.6,Walk-in,mobile money
+594,2025-08-21,621,Custom Clothing,69.78,Referral,mobile money
+595,2025-08-25,811,Haircut,18.92,Instagram,card
+596,2025-07-26,580,Haircut,11.54,Walk-in,cash
+597,2025-09-24,546,Art Commission,,Instagram,card
+598,2025-04-15,746,Custom Clothing,43.84,WhatsApp,mobile money
+599,2025-12-26,877,Beard Trim,8.88,Instagram,mobile money
+600,2025-02-22,776,Custom Clothing,65.42,Instagram,mobile money
+601,2025-11-15,209,Haircut,15.32,Instagram,cash
+602,2025-09-04,507,Art Commission,104.83,Referral,cash
+603,2025-04-30,737,Beard Trim,5.95,Instagram,card
+604,2025-10-21,266,Art Commission,113.22,Referral,cash
+605,2025-02-15,608,Beard Trim,9.72,Referral,cash
+606,2025-10-30,21,Art Commission,111.91,referral ,cash
+607,2025-09-03,790,Beard Trim,5.52,Instagram,card
+608,2025-03-01,553,Haircut,13.36,Instagram,mobile money
+609,2025-02-13,669,ART COMMISSION,79.08,Walk-in,mobile money
+610,2025-10-23,743,Haircut,9.04,Instagram,mobile money
+611,2025-05-20,197,Custom Clothing,39.45,Referral,mobile money
+612,2025-12-01,406,Custom Clothing,53.66,Walk-in,mobile money
+613,2025-10-26,773,Beard Trim,10.2,Walk-in,cash
+614,2025-10-07,149,Beard Trim,6.66,Instagram,card
+615,2025-05-14,741,Haircut,17.96,Walk-in,cash
+616,2025-10-10,260,Art Commission,95.5,Instagram,cash
+617,2025-12-18,518,Art Commission,121.25,Referral,cash
+618,2025-02-19,459,Haircut,13.67,Instagram,mobile money
+619,2025-06-02,618,Haircut,13.99,WhatsApp,mobile money
+620,2025-04-26,754,Haircut,15.44,Referral,mobile money
+621,2025-06-27,315,Art Commission,141.36,Instagram,mobile money
+622,2025-10-20,155,Haircut,13.9,Instagram,mobile money
+623,2025-07-26,381,Beard Trim,8.7,Instagram,cash
+624,2025-08-28,551,Haircut,15.22,Instagram,mobile money
+625,2025-05-28,676,Beard Trim,10.16,Instagram,mobile money
+626,2025-03-15,679,Haircut,8.86,WhatsApp,mobile money
+627,2025-05-09,306,Art Commission,91.88,Referral,cash
+628,2025-11-23,843,Haircut,13.78,Instagram,cash
+629,2025-09-07,75,Custom Clothing,84.91,Walk-in,mobile money
+630,2025-06-22,106,Art Commission,89.22,Instagram,cash
+631,2025-11-03,23,Beard Trim,8.28,WhatsApp,cash
+632,2025-02-05,834,Art Commission,145.46,Instagram,cash
+633,2025-05-04,163,Haircut,13.41,Referral,cash
+634,2025-04-24,542,Haircut,10.17,Referral,cash
+635,2025-12-28,732,Haircut,10.6,Instagram,mobile money
+636,2025-10-09,691,Haircut,9.14,Instagram,mobile money
+637,2025-09-12,854,Custom Clothing,25.04,Walk-in,mobile money
+638,2025-01-03,49,Art Commission,81.83,WhatsApp,cash
+639,2025-04-04,367,Art Commission,122.31,Walk-in,cash
+640,2025-09-18,456,Beard Trim,10.13,Referral,cash
+641,2025-06-22,627,Art Commission,33.86,Referral,cash
+642,2025-12-11,561,Art Commission,98.4,Referral,cash
+643,2025-10-27,504,Haircut,9.85,Walk-in,mobile money
+644,2025-07-17,277,Haircut,19.29,Walk-in,mobile money
+645,2025-10-22,96,Custom Clothing,35.88,Referral,card
+646,2025-12-25,389,Beard Trim,9.39,Instagram,cash
+647,2025-07-22,234,Haircut,11.91,WhatsApp,cash
+648,2025-09-20,499,Custom Clothing,,Instagram,cash
+649,2025-12-10,718,Custom Clothing,51.8,Instagram,cash
+650,2025-05-02,498,Haircut,17.12,Referral,card
+651,2025-12-01,525,Haircut,,Instagram,cash
+652,2025-02-22,38,Beard Trim,11.34,Instagram,card
+653,2025-09-22,581,Custom Clothing,57.51,Instagram,mobile money
+654,2025-11-01,396,Haircut,17.07,Walk-in,cash
+655,2025-09-11,112,Beard Trim,10.95,Referral,cash
+656,2025-08-03,193,Haircut,19.99,Instagram,cash
+657,2025-09-12,703,Beard Trim,6.57,Instagram,cash
+658,2025-03-20,826,Haircut,11.44,Walk-in,card
+659,2025-04-18,457,Custom Clothing,41.28,WhatsApp,mobile money
+660,2025-05-10,879,Haircut,11.15,Instagram,mobile money
+661,2025-09-06,163,Haircut,14.99,WhatsApp,card
+662,2025-07-15,270,Beard Trim,11.95,WhatsApp,cash
+663,2025-04-30,838,Haircut,19.88,Instagram,cash
+664,2025-11-30,158,Haircut,14.32,Referral,cash
+665,2025-06-20,594,Haircut,15.67,Referral,cash
+666,2025-07-16,198,Art Commission,133.2,Walk-in,mobile money
+667,2025-07-03,299,Art Commission,141.95,Walk-in,cash
+668,2025-04-03,430,Beard Trim,6.43,Referral,cash
+669,2025-10-17,324,Haircut,14.34,Referral,cash
+670,2025-07-17,788,Haircut,17.99,Referral,cash
+671,2025-01-10,876,Haircut,11.64,WhatsApp,mobile money
+672,2025-12-22,451,Custom Clothing,53.59,Walk-in,cash
+673,2025-11-11,473,Beard Trim,11.9,Referral,cash
+674,2025-10-15,50,Art Commission,148.21,WhatsApp,cash
+675,2025-11-26,211,Custom Clothing,83.9,Instagram,mobile money
+676,2025-12-06,36,Haircut,17.58,Instagram,card
+677,2025-06-06,771,Beard Trim,6.88,Walk-in,card
+678,2025-09-10,205,Haircut,11.85,WhatsApp,cash
+679,2025-09-09,307,Haircut,14.57,Instagram,cash
+680,2025-05-09,759,Haircut,14.73,Referral,mobile money
+681,2025-04-20,642,HAIRCUT,14.07,Instagram,cash
+682,2025-03-02,560,Haircut,15.64,Walk-in,cash
+683,2025-09-25,35,Haircut,12.9,Referral,card
+684,2025-11-01,507,HAIRCUT,16.99,Instagram,cash
+685,2025-10-26,505,Custom Clothing,46.68,WhatsApp,cash
+686,2025-05-29,288,Haircut,11.97,Instagram,mobile money
+687,2025-04-13,671,Haircut,9.53,WhatsApp,cash
+688,2025-07-19,837,Beard Trim,6.32,Instagram,cash
+689,2025-08-20,234,Art Commission,132.06,WhatsApp,cash
+690,2025-12-10,299,Custom Clothing,54.01,Referral,mobile money
+691,2025-11-27,291,Haircut,10.73,Instagram,cash
+692,2025-12-09,752,Beard Trim,10.32,Instagram,cash
+693,2025-11-21,70,Haircut,14.65,Instagram,card
+694,2025-12-22,807,Haircut,8.25,Walk-in,card
+695,2025-07-23,698,Beard Trim,7.21,Referral,mobile money
+696,2025-01-27,436,Custom Clothing,36.51,Walk-in,cash
+697,2025-02-15,526,Art Commission,108.7,Walk-in,cash
+698,2025-06-26,805,Custom Clothing,42.88,Walk-in,card
+699,2025-05-05,693,Custom Clothing,29.22,Walk-in,card
+700,2025-03-28,250,Haircut,8.66,Referral,cash
+701,2025-12-19,46,Haircut,14.98,Walk-in,card
+702,2025-04-09,593,Haircut,8.26,Referral,cash
+703,2025-12-21,132,Haircut,18.19,WhatsApp,mobile money
+704,2025-10-26,80,Beard Trim,6.09,Walk-in,mobile money
+705,2025-09-19,885,Haircut,15.28,Instagram,cash
+706,2025-09-30,427,Custom Clothing,53.9,Instagram,mobile money
+707,2025-06-04,586,Art Commission,83.14,Walk-in,mobile money
+708,2025-09-21,196,Art Commission,38.62,Instagram,cash
+709,2025-04-05,92,Haircut,17.63,WhatsApp,cash
+710,2025-12-15,57,Haircut,18.72,Referral,card
+711,2025-05-23,319,BEARD TRIM,5.08,Walk-in,cash
+712,2025-05-04,4,Custom Clothing,36.61,Referral,cash
+713,2025-10-11,379,Art Commission,138.47,Instagram,cash
+714,2025-09-24,293,Beard Trim,8.85,Referral,mobile money
+715,2025-07-18,475,ART COMMISSION,48.0,Instagram,cash
+716,2025-09-17,531,Haircut,10.43,Referral,mobile money
+717,2025-03-24,278,Custom Clothing,67.9,WhatsApp,cash
+718,2025-09-29,410,Haircut,16.7,Referral,cash
+719,2025-05-11,71,Custom Clothing,63.96,WhatsApp,mobile money
+720,2025-05-12,272,Beard Trim,11.67,Walk-in,cash
+721,2025-03-25,881,Custom Clothing,57.11,Referral,cash
+722,2025-06-04,893,Haircut,11.6,Walk-in,cash
+723,2025-06-04,438,Haircut,13.73,Referral,card
+724,2025-07-19,846,Beard Trim,,Instagram,cash
+725,2025-04-07,452,Haircut,10.69,Instagram,cash
+726,2025-04-08,114,Haircut,8.55,Walk-in,cash
+727,2025-08-18,782,Haircut,12.23,Instagram,cash
+728,2025-03-09,374,Haircut,16.54,Referral,cash
+729,2025-10-04,552,Haircut,8.22,Referral,card
+730,2025-12-16,584,Custom Clothing,53.55,WhatsApp,cash
+731,2025-07-10,278,Haircut,15.73,Instagram,cash
+732,2025-12-05,661,Haircut,15.32,WhatsApp,card
+733,2025-02-22,452,Haircut,17.32,Instagram,mobile money
+734,2025-01-25,330,Haircut,17.73,Walk-in,cash
+735,2025-10-14,269,Haircut,16.54,Referral,cash
+736,2025-10-26,672,Custom Clothing,31.68,Instagram,cash
+737,2025-11-18,225,HAIRCUT,13.7,Instagram,mobile money
+738,2025-02-01,112,Haircut,15.24,Instagram,cash
+739,2025-10-30,794,Haircut,10.95,Walk-in,cash
+740,2025-06-21,299,Haircut,8.51,Referral,cash
+741,2025-05-24,577,Haircut,10.68,Instagram,cash
+742,2025-03-30,645,Haircut,13.46,Instagram,cash
+743,2025-12-30,755,Beard Trim,7.9,Walk-in,cash
+744,2025-02-05,564,Haircut,10.12,Instagram,card
+745,2025-11-14,638,Custom Clothing,78.59,Referral,card
+746,2025-09-19,754,Haircut,19.11,WhatsApp,card
+747,2025-10-18,850,Haircut,10.42,Referral,mobile money
+748,2025-10-11,43,HAIRCUT,19.15,WhatsApp,cash
+749,2025-11-23,669,Art Commission,32.14,Walk-in,mobile money
+750,2025-04-04,157,Art Commission,141.0,Referral,mobile money
+751,2025-01-01,803,Haircut,19.42,Instagram,mobile money
+752,2025-09-06,44,Haircut,8.14,Instagram,mobile money
+753,2025-06-13,223,Haircut,17.16,Referral,cash
+754,2025-03-07,173,Haircut,19.64,Instagram,cash
+755,2025-04-05,544,Custom Clothing,83.88,WhatsApp,cash
+756,2025-06-04,4,Haircut,19.65,Referral,cash
+757,2025-02-08,16,Haircut,14.6,WhatsApp,cash
+758,2025-02-01,454,Beard Trim,5.55,Instagram,cash
+759,2025-12-09,875,Haircut,18.2,walk-in ,cash
+760,2025-05-27,476,Haircut,15.37,Referral,mobile money
+761,2025-12-27,402,Art Commission,103.77,Instagram,card
+762,2025-12-22,593,Haircut,13.01,Walk-in,card
+763,2025-03-16,497,Haircut,14.86,Referral,cash
+764,2025-10-12,347,Haircut,9.84,WhatsApp,card
+765,2025-09-07,530,BEARD TRIM,10.18,referral ,mobile money
+766,2025-10-05,3,Haircut,8.9,Instagram,card
+767,2025-02-21,221,Haircut,16.76,Walk-in,card
+768,2025-04-06,607,Haircut,18.19,Walk-in,cash
+769,2025-02-11,308,Haircut,13.67,Instagram,cash
+770,2025-09-08,49,Custom Clothing,58.14,Walk-in,card
+771,2025-12-28,112,Haircut,11.75,Instagram,mobile money
+772,2025-09-29,780,Custom Clothing,88.01,Instagram,cash
+773,2025-10-11,297,Custom Clothing,72.65,Walk-in,cash
+774,2025-12-27,21,Art Commission,74.28,Instagram,cash
+775,2025-10-01,656,Haircut,10.1,Walk-in,cash
+776,2025-01-23,478,Beard Trim,6.54,Instagram,mobile money
+777,2025-11-25,407,CUSTOM CLOTHING,55.15,Referral,mobile money
+778,2025-06-17,806,Haircut,19.31,instagram ,cash
+779,2025-01-03,283,Art Commission,118.1,WhatsApp,cash
+780,2025-08-07,516,Beard Trim,6.51,Instagram,cash
+781,2025-12-15,671,Haircut,18.31,Walk-in,cash
+782,2025-05-05,548,Beard Trim,7.65,Instagram,card
+783,2025-08-01,188,Haircut,18.22,Instagram,mobile money
+784,2025-03-30,614,Custom Clothing,40.71,Walk-in,card
+785,2025-02-02,670,Beard Trim,9.33,Referral,cash
+786,2025-02-13,111,Haircut,19.12,WhatsApp,mobile money
+787,2025-10-16,149,Art Commission,60.95,Instagram,mobile money
+788,2025-11-24,608,Haircut,16.32,Instagram,cash
+789,2025-03-16,108,Art Commission,148.48,Referral,card
+790,2025-05-18,793,Custom Clothing,34.79,Walk-in,card
+791,2025-04-09,99,Haircut,9.06,Instagram,mobile money
+792,2025-01-16,877,Haircut,16.09,Referral,cash
+793,2025-08-22,605,Haircut,12.08,Walk-in,cash
+794,2025-10-07,399,Haircut,8.85,Referral,cash
+795,2025-09-21,242,HAIRCUT,13.7,Walk-in,cash
+796,2025-06-25,311,Haircut,17.05,Walk-in,cash
+797,2025-08-23,674,Haircut,11.42,Instagram,mobile money
+798,2025-02-20,678,Haircut,12.02,Referral,cash
+799,2025-03-21,188,Art Commission,131.48,Instagram,cash
+800,2025-12-13,489,Art Commission,92.41,Referral,mobile money
+801,2025-10-26,894,Art Commission,131.13,Referral,card
+802,2025-12-11,232,Haircut,13.36,Referral,cash
+803,2025-12-09,625,Beard Trim,11.67,Instagram,card
+804,2025-09-22,155,Custom Clothing,67.3,Instagram,cash
+805,2025-12-12,751,Haircut,9.39,Walk-in,cash
+806,2025-07-06,154,Haircut,18.62,Walk-in,card
+807,2025-01-03,268,Custom Clothing,56.8,WhatsApp,cash
+808,2025-02-04,414,Haircut,9.7,Walk-in,cash
+809,2025-02-28,334,Custom Clothing,34.92,WhatsApp,cash
+810,2025-02-21,154,Beard Trim,9.81,Instagram,mobile money
+811,2025-06-12,577,Haircut,8.57,Walk-in,cash
+812,2025-10-08,18,Haircut,11.44,Instagram,mobile money
+813,2025-11-03,886,Beard Trim,5.98,Referral,cash
+814,2025-09-03,47,Custom Clothing,53.67,Instagram,card
+815,2025-03-18,301,Haircut,12.97,instagram ,cash
+816,2025-10-22,837,Beard Trim,8.65,Referral,cash
+817,2025-06-13,140,Beard Trim,6.96,Walk-in,card
+818,2025-01-08,66,Custom Clothing,27.08,Instagram,card
+819,2025-05-15,670,Custom Clothing,64.94,Instagram,cash
+820,2025-06-04,66,HAIRCUT,12.48,Walk-in,cash
+821,2025-05-12,810,Haircut,15.82,Instagram,cash
+822,2025-11-10,407,Custom Clothing,32.06,Instagram,cash
+823,2025-10-25,783,Haircut,8.17,Referral,card
+824,2025-10-06,221,Custom Clothing,41.14,Instagram,cash
+825,2025-03-14,128,Art Commission,84.79,Walk-in,card
+826,2025-11-08,867,Haircut,12.73,Walk-in,cash
+827,2025-10-01,686,Custom Clothing,77.67,Instagram,cash
+828,2025-04-09,820,Haircut,12.53,Instagram,cash
+829,2025-09-22,288,Beard Trim,8.71,Instagram,cash
+830,2025-07-30,365,Haircut,15.12,Instagram,cash
+831,2025-07-14,520,Custom Clothing,26.42,Instagram,mobile money
+832,2025-03-01,404,Custom Clothing,58.48,WhatsApp,cash
+833,2025-08-10,219,Haircut,12.14,Referral,mobile money
+834,2025-02-23,338,CUSTOM CLOTHING,52.38,Walk-in,cash
+835,2025-03-26,548,Art Commission,42.03,Walk-in,cash
+836,2025-03-11,35,Custom Clothing,75.88,Walk-in,cash
+837,2025-12-19,303,Art Commission,143.09,Referral,cash
+838,2025-05-17,264,Beard Trim,5.16,Instagram,card
+839,2025-06-13,64,Haircut,15.22,Instagram,mobile money
+840,2025-05-31,111,Custom Clothing,74.65,Instagram,card
+841,2025-12-04,447,Haircut,11.42,instagram ,card
+842,2025-08-25,93,Art Commission,124.51,Instagram,cash
+843,2025-12-10,311,Custom Clothing,66.1,WhatsApp,cash
+844,2025-05-23,505,Haircut,19.15,whatsapp ,mobile money
+845,2025-03-03,787,Haircut,19.77,Instagram,cash
+846,2025-08-23,89,Beard Trim,5.3,Walk-in,cash
+847,2025-06-09,392,HAIRCUT,13.34,Walk-in,mobile money
+848,2025-11-07,93,Custom Clothing,60.55,Walk-in,mobile money
+849,2025-11-29,386,Haircut,9.76,Walk-in,card
+850,2025-07-26,433,Beard Trim,7.35,Instagram,cash
+851,2025-12-24,720,Haircut,19.85,Referral,mobile money
+852,2025-08-22,399,Haircut,8.19,WhatsApp,cash
+853,2025-05-11,842,Beard Trim,8.17,Referral,cash
+854,2025-07-31,124,Beard Trim,10.9,Referral,cash
+855,2025-01-22,48,Haircut,11.89,Walk-in,mobile money
+856,2025-11-07,5,Haircut,13.76,Instagram,mobile money
+857,2025-02-24,322,Art Commission,,Instagram,card
+858,2025-05-26,174,Beard Trim,8.32,Walk-in,cash
+859,2025-08-26,83,Haircut,9.57,Instagram,cash
+860,2025-01-25,213,Custom Clothing,28.36,Referral,cash
+861,2025-02-13,878,Art Commission,143.45,Walk-in,mobile money
+862,2025-10-06,721,Art Commission,61.9,Walk-in,cash
+863,2025-02-09,17,Art Commission,90.49,Instagram,cash
+864,2025-07-27,824,Custom Clothing,30.9,WhatsApp,mobile money
+865,2025-06-07,185,Haircut,13.08,Instagram,cash
+866,2025-04-23,366,Beard Trim,11.51,Instagram,mobile money
+867,2025-04-06,295,Beard Trim,8.52,Instagram,cash
+868,2025-10-26,365,Art Commission,,Referral,mobile money
+869,2025-12-19,685,Haircut,11.11,WhatsApp,cash
+870,2025-03-15,642,Haircut,14.05,Instagram,cash
+871,2025-12-21,535,Art Commission,133.14,WhatsApp,cash
+872,2025-09-05,565,Haircut,13.38,Instagram,cash
+873,2025-09-20,655,Beard Trim,6.96,Referral,card
+874,2025-10-11,166,Haircut,18.27,Instagram,cash
+875,2025-10-09,357,Art Commission,76.79,Walk-in,cash
+876,2025-11-12,97,Beard Trim,8.72,Referral,mobile money
+877,2025-07-29,634,Haircut,19.72,Walk-in,cash
+878,2025-08-15,394,Haircut,10.24,Instagram,card
+879,2025-06-01,574,Custom Clothing,44.59,Referral,mobile money
+880,2025-02-26,509,Custom Clothing,27.02,WhatsApp,cash
+881,2025-09-27,247,Haircut,12.7,Walk-in,mobile money
+882,2025-01-20,125,Custom Clothing,38.01,Referral,cash
+883,2025-05-13,876,Beard Trim,9.76,Referral,cash
+884,2025-02-20,264,HAIRCUT,10.18,Instagram,cash
+885,2025-04-07,99,Haircut,16.1,WhatsApp,mobile money
+886,2025-09-19,276,Haircut,11.16,Instagram,card
+887,2025-09-15,813,Haircut,12.26,Referral,card
+888,2025-07-07,236,Haircut,12.19,Instagram,mobile money
+889,2025-02-18,889,Haircut,16.6,Instagram,cash
+890,2025-07-12,415,Custom Clothing,55.32,Walk-in,mobile money
+891,2025-06-12,776,Haircut,12.34,Walk-in,mobile money
+892,2025-10-14,588,Beard Trim,10.97,WhatsApp,mobile money
+893,2025-08-31,40,Haircut,14.86,WhatsApp,mobile money
+894,2025-08-01,459,Haircut,10.57,Instagram,mobile money
+895,2025-07-31,376,Art Commission,138.01,Instagram,cash
+896,2025-12-22,182,Beard Trim,7.4,Walk-in,mobile money
+897,2025-10-24,495,Haircut,8.47,Walk-in,mobile money
+898,2025-08-03,93,HAIRCUT,13.94,Walk-in,card
+899,2025-07-28,629,Haircut,9.49,WhatsApp,cash
+900,2025-01-16,740,Custom Clothing,40.5,Referral,mobile money
+901,2025-12-16,84,Haircut,16.97,Instagram,cash
+902,2025-05-30,432,Haircut,9.57,Walk-in,cash
+903,2025-05-05,590,Haircut,17.68,Referral,card
+904,2025-12-31,56,Haircut,19.24,Walk-in,cash
+905,2025-10-13,351,Beard Trim,9.25,Instagram,mobile money
+906,2025-01-27,233,Custom Clothing,71.17,Walk-in,cash
+907,2025-02-04,36,Haircut,16.56,Walk-in,card
+908,2025-01-15,724,Haircut,19.91,Instagram,mobile money
+909,2025-09-06,401,Haircut,12.1,Referral,cash
+910,2025-02-09,677,Haircut,9.95,Instagram,mobile money
+911,2025-12-14,529,Art Commission,92.3,Walk-in,cash
+912,2025-12-15,789,Beard Trim,8.73,Walk-in,mobile money
+913,2025-08-20,898,Beard Trim,6.25,WhatsApp,mobile money
+914,2025-09-12,542,Beard Trim,9.29,Instagram,cash
+915,2025-05-19,317,Beard Trim,5.1,Instagram,card
+916,2025-02-05,381,Beard Trim,11.49,Instagram,card
+917,2025-10-19,743,Haircut,11.17,Walk-in,card
+918,2025-02-24,384,Haircut,8.47,Instagram,mobile money
+919,2025-02-16,468,Haircut,9.3,Referral,cash
+920,2025-05-27,175,Custom Clothing,40.62,Instagram,card
+921,2025-01-08,892,Haircut,11.29,Instagram,cash
+922,2025-07-12,586,Art Commission,33.94,Walk-in,cash
+923,2025-10-10,298,Custom Clothing,43.16,Referral,mobile money
+924,2025-11-07,527,Custom Clothing,37.54,WhatsApp,cash
+925,2025-09-08,362,Haircut,12.54,Referral,card
+926,2025-11-20,140,Haircut,12.62,Walk-in,cash
+927,2025-07-02,788,Haircut,12.07,Referral,mobile money
+928,2025-11-20,798,Beard Trim,7.3,Referral,card
+929,2025-08-06,752,Custom Clothing,30.83,instagram ,cash
+930,2025-04-21,332,Art Commission,33.02,Walk-in,cash
+931,2025-12-17,231,Haircut,10.43,Referral,cash
+932,2025-05-13,45,Haircut,17.08,Instagram,mobile money
+933,2025-01-15,659,Haircut,19.89,Referral,card
+934,2025-04-29,296,Art Commission,141.42,Walk-in,cash
+935,2025-06-17,803,Art Commission,90.51,Walk-in,mobile money
+936,2025-06-12,783,HAIRCUT,14.38,Instagram,cash
+937,2025-08-13,116,Beard Trim,7.2,Referral,cash
+938,2025-11-30,826,Haircut,17.29,WhatsApp,cash
+939,2025-05-20,127,Beard Trim,10.35,Instagram,cash
+940,2025-08-11,442,Haircut,18.13,Walk-in,mobile money
+941,2025-06-07,427,Haircut,18.75,Instagram,mobile money
+942,2025-11-12,861,Art Commission,82.12,Instagram,mobile money
+943,2025-03-23,592,Haircut,17.2,WhatsApp,mobile money
+944,2025-02-25,788,HAIRCUT,17.68,Walk-in,cash
+945,2025-08-05,537,Haircut,11.7,Walk-in,cash
+946,2025-09-29,743,Haircut,19.15,Instagram,card
+947,2025-11-05,767,Art Commission,41.32,WhatsApp,mobile money
+948,2025-09-03,774,Beard Trim,11.96,Instagram,mobile money
+949,2025-10-30,371,Beard Trim,10.39,referral ,cash
+950,2025-06-27,344,Haircut,9.12,Instagram,card
+951,2025-01-19,887,Custom Clothing,67.65,Instagram,mobile money
+952,2025-03-03,681,Haircut,8.41,Referral,mobile money
+953,2025-01-22,826,Haircut,17.24,Instagram,mobile money
+954,2025-06-03,520,Haircut,17.59,Referral,cash
+955,2025-08-03,837,Beard Trim,9.22,Instagram,cash
+956,2025-06-14,648,Beard Trim,11.0,Referral,cash
+957,2025-08-24,669,Art Commission,41.75,Referral,cash
+958,2025-07-29,161,Custom Clothing,42.94,Referral,mobile money
+959,2025-10-01,511,Haircut,12.97,Instagram,card
+960,2025-09-27,659,Custom Clothing,27.76,Referral,cash
+961,2025-05-30,685,Custom Clothing,54.13,WhatsApp,cash
+962,2025-06-10,862,Haircut,11.18,Instagram,card
+963,2025-09-01,295,Haircut,12.71,Instagram,card
+964,2025-09-05,273,Haircut,13.1,Referral,cash
+965,2025-05-28,873,Beard Trim,11.16,Instagram,mobile money
+966,2025-06-04,888,Haircut,11.24,Referral,cash
+967,2025-10-06,162,Beard Trim,11.26,Referral,cash
+968,2025-09-21,341,Haircut,13.11,Instagram,cash
+969,2025-03-12,854,Custom Clothing,46.31,Walk-in,card
+970,2025-07-15,180,Haircut,14.03,Walk-in,mobile money
+971,2025-12-02,705,Haircut,13.01,Instagram,mobile money
+972,2025-01-21,102,Haircut,11.09,WhatsApp,cash
+973,2025-11-22,161,Haircut,14.03,Instagram,mobile money
+974,2025-03-25,707,Beard Trim,6.06,Walk-in,mobile money
+975,2025-08-07,547,Haircut,12.22,Referral,cash
+976,2025-07-09,500,Custom Clothing,61.78,Instagram,cash
+977,2025-01-06,771,Haircut,,Referral,cash
+978,2025-12-09,277,HAIRCUT,17.89,Instagram,mobile money
+979,2025-07-20,453,Custom Clothing,41.69,Walk-in,cash
+980,2025-12-19,548,Haircut,19.64,Instagram,cash
+981,2025-05-17,666,Beard Trim,10.49,Referral,mobile money
+982,2025-11-25,299,Art Commission,146.11,Referral,mobile money
+983,2025-12-11,571,Art Commission,130.58,Referral,card
+984,2025-08-23,404,Haircut,9.71,WhatsApp,mobile money
+985,2025-04-12,488,Haircut,14.32,Referral,cash
+986,2025-10-03,777,Beard Trim,6.19,Referral,mobile money
+987,2025-08-21,355,Haircut,17.82,Walk-in,cash
+988,2025-12-17,602,Haircut,15.01,WhatsApp,cash
+989,2025-07-14,848,Haircut,11.16,Referral,mobile money
+990,2025-05-10,687,Art Commission,141.55,WhatsApp,cash
+991,2025-03-14,890,Custom Clothing,32.49,Instagram,cash
+992,2025-10-07,526,Art Commission,97.66,Walk-in,card
+993,2025-12-25,254,Art Commission,116.52,Referral,cash
+994,2025-01-17,893,Haircut,8.71,Instagram,cash
+995,2025-10-20,581,Beard Trim,9.18,Instagram,card
+996,2025-12-12,218,Haircut,17.79,WhatsApp,mobile money
+997,2025-02-10,286,Custom Clothing,,Walk-in,mobile money
+998,2025-02-28,237,Haircut,14.15,Instagram,cash
+999,2025-10-05,751,Beard Trim,6.81,instagram ,card
+1000,2025-09-21,84,Haircut,15.96,Walk-in,mobile money
+1001,2025-02-07,666,Haircut,9.42,Referral,cash
+1002,2025-11-16,499,Haircut,19.24,WhatsApp,cash
+1003,2025-08-12,67,Haircut,18.74,WhatsApp,cash
+1004,2025-12-06,553,Haircut,10.23,Referral,card
+1005,2025-11-28,678,Custom Clothing,46.01,Referral,cash
+1006,2025-11-10,654,Haircut,15.05,Instagram,mobile money
+1007,2025-08-10,476,Beard Trim,10.03,WhatsApp,mobile money
+1008,2025-05-03,302,Haircut,13.31,Instagram,cash
+1009,2025-08-06,148,Art Commission,48.75,Instagram,card
+1010,2025-02-24,12,Haircut,9.25,WhatsApp,cash
+1011,2025-09-25,324,Custom Clothing,89.98,WhatsApp,cash
+1012,2025-03-12,570,Custom Clothing,54.6,Instagram,mobile money
+1013,2025-08-08,34,Haircut,18.47,Referral,cash
+1014,2025-01-31,899,Beard Trim,8.38,Walk-in,mobile money
+1015,2025-05-22,528,Haircut,19.07,Instagram,card
+1016,2025-04-25,266,Haircut,9.05,Instagram,cash
+1017,2025-09-13,866,Custom Clothing,32.41,Instagram,cash
+1018,2025-11-02,166,Art Commission,141.56,Walk-in,cash
+1019,2025-02-01,862,Haircut,19.37,Walk-in,mobile money
+1020,2025-11-21,254,Haircut,11.78,Walk-in,card
+1021,2025-11-23,342,Beard Trim,7.49,Instagram,cash
+1022,2025-06-08,383,Art Commission,84.29,WhatsApp,card
+1023,2025-09-25,896,Beard Trim,7.91,Referral,card
+1024,2025-07-01,226,Custom Clothing,37.35,WhatsApp,mobile money
+1025,2025-03-21,876,Custom Clothing,83.39,Instagram,cash
+1026,2025-08-14,313,Haircut,11.04,Referral,cash
+1027,2025-02-16,257,Beard Trim,9.94,Referral,cash
+1028,2025-11-28,575,Haircut,8.81,Instagram,cash
+1029,2025-12-11,625,Art Commission,34.65,Instagram,cash
+1030,2025-11-12,311,Haircut,,Instagram,cash
+1031,2025-08-25,121,Custom Clothing,47.04,Instagram,cash
+1032,2025-08-23,357,Art Commission,108.66,Walk-in,cash
+1033,2025-12-27,487,Custom Clothing,31.11,Instagram,cash
+1034,2025-05-01,37,Beard Trim,11.65,Instagram,mobile money
+1035,2025-02-11,71,Haircut,16.98,Referral,card
+1036,2025-08-25,827,Custom Clothing,81.96,Instagram,cash
+1037,2025-06-03,33,HAIRCUT,9.64,Instagram,card
+1038,2025-05-31,367,Haircut,11.84,Referral,cash
+1039,2025-01-05,688,Haircut,12.42,Instagram,mobile money
+1040,2025-09-05,296,Haircut,14.45,Instagram,card
+1041,2025-05-08,446,Haircut,11.56,Instagram,cash
+1042,2025-04-05,78,Custom Clothing,28.94,Instagram,mobile money
+1043,2025-01-23,715,Custom Clothing,48.98,Walk-in,mobile money
+1044,2025-06-17,571,Custom Clothing,41.55,Instagram,mobile money
+1045,2025-11-29,767,Haircut,12.63,Instagram,cash
+1046,2025-06-06,778,Haircut,10.36,WhatsApp,cash
+1047,2025-10-01,316,Haircut,11.14,WhatsApp,card
+1048,2025-10-24,38,Art Commission,105.23,instagram ,cash
+1049,2025-06-03,312,Beard Trim,7.72,Instagram,card
+1050,2025-11-12,131,Haircut,12.14,Walk-in,mobile money
+1051,2025-10-05,480,Custom Clothing,59.7,Referral,cash
+1052,2025-08-24,132,Haircut,17.26,Referral,cash
+1053,2025-01-01,830,Haircut,12.55,Instagram,cash
+1054,2025-01-20,543,Haircut,15.05,Instagram,cash
+1055,2025-12-29,228,Haircut,19.59,Walk-in,card
+1056,2025-11-01,830,Custom Clothing,58.93,WhatsApp,mobile money
+1057,2025-12-15,693,Beard Trim,11.37,WhatsApp,cash
+1058,2025-12-05,394,Haircut,17.52,Instagram,mobile money
+1059,2025-01-12,132,CUSTOM CLOTHING,28.82,Walk-in,card
+1060,2025-11-04,310,Art Commission,81.49,Instagram,mobile money
+1061,2025-07-18,526,Beard Trim,9.89,Referral,cash
+1062,2025-11-03,690,Custom Clothing,89.14,WhatsApp,mobile money
+1063,2025-01-04,236,Haircut,13.5,Walk-in,mobile money
+1064,2025-05-18,669,Custom Clothing,31.03,Instagram,cash
+1065,2025-10-23,255,Haircut,14.74,Walk-in,card
+1066,2025-11-04,223,Beard Trim,5.89,Walk-in,mobile money
+1067,2025-09-13,403,Haircut,17.02,Referral,cash
+1068,2025-05-23,145,Custom Clothing,58.0,Instagram,mobile money
+1069,2025-05-27,365,Haircut,16.68,whatsapp ,mobile money
+1070,2025-12-23,323,Haircut,18.43,Instagram,mobile money
+1071,2025-07-14,253,Beard Trim,9.4,Instagram,cash
+1072,2025-07-17,699,Custom Clothing,64.81,Instagram,card
+1073,2025-08-22,299,Haircut,17.05,Instagram,mobile money
+1074,2025-07-03,626,Beard Trim,10.9,Instagram,card
+1075,2025-08-22,649,Beard Trim,11.08,Referral,cash
+1076,2025-07-12,600,Haircut,8.44,Instagram,cash
+1077,2025-11-14,243,Custom Clothing,61.15,Instagram,mobile money
+1078,2025-12-07,747,Haircut,10.6,Instagram,cash
+1079,2025-12-13,213,Custom Clothing,80.92,Instagram,cash
+1080,2025-08-26,250,Haircut,15.78,WhatsApp,cash
+1081,2025-07-15,788,Haircut,13.04,WhatsApp,mobile money
+1082,2025-10-09,306,Beard Trim,6.32,Instagram,cash
+1083,2025-11-17,628,Beard Trim,7.37,Referral,mobile money
+1084,2025-08-25,39,Art Commission,114.45,Referral,mobile money
+1085,2025-10-08,553,Beard Trim,6.43,WhatsApp,mobile money
+1086,2025-10-22,782,Art Commission,41.23,Instagram,mobile money
+1087,2025-09-30,638,Art Commission,136.56,Instagram,cash
+1088,2025-10-21,525,Art Commission,121.71,Walk-in,card
+1089,2025-04-15,765,Haircut,10.4,WhatsApp,cash
+1090,2025-08-04,269,Haircut,11.51,Referral,mobile money
+1091,2025-09-03,340,Haircut,19.66,Walk-in,cash
+1092,2025-01-02,63,Custom Clothing,71.03,Instagram,card
+1093,2025-11-22,629,Haircut,15.33,Referral,mobile money
+1094,2025-09-09,652,Haircut,11.69,WhatsApp,cash
+1095,2025-03-09,677,Custom Clothing,44.44,walk-in ,mobile money
+1096,2025-11-11,674,Haircut,8.47,Referral,cash
+1097,2025-10-13,115,Haircut,16.74,Walk-in,cash
+1098,2025-10-25,600,Art Commission,35.18,Walk-in,cash
+1099,2025-06-27,687,BEARD TRIM,5.03,Walk-in,cash
+1100,2025-11-22,184,Haircut,16.75,Referral,card
+1101,2025-07-05,429,Haircut,19.39,WhatsApp,mobile money
+1102,2025-08-28,822,Haircut,17.08,Walk-in,cash
+1103,2025-01-01,374,Art Commission,86.6,Instagram,card
+1104,2025-09-21,678,Art Commission,88.33,Walk-in,mobile money
+1105,2025-10-13,478,Haircut,13.23,Instagram,mobile money
+1106,2025-08-27,592,Art Commission,68.96,Instagram,cash
+1107,2025-08-03,564,Haircut,14.26,Instagram,mobile money
+1108,2025-11-09,586,Haircut,13.17,Walk-in,cash
+1109,2025-10-02,702,Beard Trim,9.19,Instagram,card
+1110,2025-05-14,814,Haircut,18.78,Instagram,card
+1111,2025-12-21,267,Haircut,19.94,Referral,mobile money
+1112,2025-10-10,836,Haircut,8.94,Instagram,cash
+1113,2025-12-28,566,Custom Clothing,50.0,Referral,cash
+1114,2025-12-24,537,Beard Trim,6.26,WhatsApp,mobile money
+1115,2025-12-10,295,Beard Trim,7.46,Walk-in,cash
+1116,2025-10-24,376,Haircut,11.45,Instagram,cash
+1117,2025-09-09,587,Haircut,10.09,Instagram,mobile money
+1118,2025-03-29,328,Art Commission,121.69,Walk-in,card
+1119,2025-08-19,259,Haircut,13.96,Walk-in,cash
+1120,2025-10-27,738,Beard Trim,11.43,Instagram,cash
+1121,2025-08-11,374,Custom Clothing,27.12,Walk-in,mobile money
+1122,2025-11-26,581,Haircut,8.8,walk-in ,cash
+1123,2025-02-28,29,Art Commission,78.39,Instagram,cash
+1124,2025-06-23,70,Haircut,8.96,Referral,cash
+1125,2025-08-06,764,Haircut,11.15,Instagram,cash
+1126,2025-07-12,128,Custom Clothing,89.09,Instagram,mobile money
+1127,2025-02-27,717,Custom Clothing,38.58,Referral,cash
+1128,2025-03-21,811,Custom Clothing,37.88,Instagram,cash
+1129,2025-11-17,434,Custom Clothing,62.29,Referral,card
+1130,2025-07-30,797,Beard Trim,8.49,Walk-in,cash
+1131,2025-01-28,385,Beard Trim,9.06,Instagram,cash
+1132,2025-01-10,857,Custom Clothing,49.49,WhatsApp,mobile money
+1133,2025-07-26,214,Haircut,17.92,Instagram,mobile money
+1134,2025-03-26,386,Art Commission,46.63,Instagram,cash
+1135,2025-10-09,351,Beard Trim,8.0,WhatsApp,cash
+1136,2025-11-05,706,Haircut,16.28,Referral,cash
+1137,2025-04-23,40,Haircut,18.42,Referral,cash
+1138,2025-09-04,746,Haircut,12.43,Instagram,card
+1139,2025-03-21,22,Haircut,14.81,Instagram,card
+1140,2025-05-24,285,Custom Clothing,29.49,Referral,mobile money
+1141,2025-12-01,537,Haircut,10.04,Instagram,mobile money
+1142,2025-08-19,131,Art Commission,38.3,Instagram,cash
+1143,2025-12-01,442,Art Commission,117.35,Referral,mobile money
+1144,2025-04-22,898,Art Commission,64.57,Instagram,card
+1145,2025-06-03,741,Haircut,16.68,Instagram,cash
+1146,2025-07-25,28,Haircut,8.8,Instagram,mobile money
+1147,2025-07-28,533,Art Commission,133.51,Walk-in,cash
+1148,2025-12-31,538,Art Commission,130.26,Referral,card
+1149,2025-03-02,62,Haircut,9.07,WhatsApp,mobile money
+1150,2025-11-21,586,Beard Trim,5.17,Instagram,cash
+1151,2025-11-24,469,Haircut,8.68,Instagram,mobile money
+1152,2025-08-22,614,Beard Trim,10.98,Walk-in,cash
+1153,2025-06-09,268,HAIRCUT,10.82,Walk-in,mobile money
+1154,2025-08-11,231,Haircut,14.58,Walk-in,cash
+1155,2025-05-20,663,Custom Clothing,52.71,WhatsApp,cash
+1156,2025-11-06,650,Haircut,17.55,Walk-in,cash
+1157,2025-08-04,146,Haircut,13.87,Walk-in,mobile money
+1158,2025-12-12,195,Haircut,14.01,WhatsApp,cash
+1159,2025-09-14,528,Haircut,19.87,Instagram,mobile money
+1160,2025-08-09,747,Art Commission,48.02,WhatsApp,cash
+1161,2025-10-11,182,Haircut,17.97,Walk-in,cash
+1162,2025-08-06,198,Custom Clothing,28.36,Walk-in,cash
+1163,2025-12-06,728,Art Commission,87.32,WhatsApp,cash
+1164,2025-04-04,628,Haircut,18.64,Walk-in,mobile money
+1165,2025-12-24,813,Haircut,15.98,Walk-in,cash
+1166,2025-11-10,706,Beard Trim,9.8,Instagram,card
+1167,2025-11-23,858,Art Commission,61.6,Referral,card
+1168,2025-07-29,171,Custom Clothing,52.21,Walk-in,card
+1169,2025-11-17,245,Art Commission,73.99,Instagram,card
+1170,2025-05-25,215,Haircut,14.26,Referral,mobile money
+1171,2025-10-26,50,Haircut,13.55,Referral,card
+1172,2025-03-15,702,Art Commission,69.23,Walk-in,card
+1173,2025-05-25,596,Haircut,11.67,Instagram,card
+1174,2025-07-16,78,Art Commission,60.1,Walk-in,card
+1175,2025-05-31,179,Custom Clothing,48.73,Instagram,cash
+1176,2025-06-25,172,Art Commission,47.99,Instagram,card
+1177,2025-11-12,363,Haircut,18.47,Walk-in,cash
+1178,2025-05-05,410,Haircut,15.23,Instagram,mobile money
+1179,2025-10-21,261,Haircut,,Instagram,mobile money
+1180,2025-02-10,838,Haircut,16.33,Referral,mobile money
+1181,2025-10-27,192,Art Commission,131.72,Instagram,mobile money
+1182,2025-11-04,506,Haircut,10.85,WhatsApp,card
+1183,2025-06-30,395,Haircut,9.81,WhatsApp,mobile money
+1184,2025-10-14,349,Haircut,8.1,Walk-in,cash
+1185,2025-12-09,744,Haircut,8.57,WhatsApp,cash
+1186,2025-11-06,881,Art Commission,121.47,WhatsApp,cash
+1187,2025-06-26,6,Haircut,19.85,Instagram,cash
+1188,2025-07-30,418,Beard Trim,5.31,Referral,mobile money
+1189,2025-10-31,108,Haircut,16.98,Instagram,mobile money
+1190,2025-05-20,391,Custom Clothing,29.67,Referral,card
+1191,2025-11-07,556,Haircut,15.11,Walk-in,cash
+1192,2025-06-03,371,HAIRCUT,17.07,Instagram,card
+1193,2025-11-08,279,Beard Trim,7.51,instagram ,cash
+1194,2025-02-17,281,Beard Trim,5.08,WhatsApp,mobile money
+1195,2025-01-25,270,Beard Trim,9.17,Instagram,mobile money
+1196,2025-12-31,294,Haircut,19.89,Instagram,cash
+1197,2025-11-26,337,Haircut,11.09,Instagram,cash
+1198,2025-11-30,620,Custom Clothing,37.32,Walk-in,cash
+1199,2025-12-18,87,Haircut,9.49,Referral,cash
+1200,2025-07-14,37,Art Commission,96.63,Referral,cash
+637,2025-09-12,854,Custom Clothing,25.04,Walk-in,mobile money
+684,2025-11-01,507,HAIRCUT,16.99,Instagram,cash
+1034,2025-05-01,37,Beard Trim,11.65,Instagram,mobile money
+191,2025-10-28,181,Beard Trim,11.55,Instagram,cash
+1084,2025-08-25,39,Art Commission,114.45,Referral,mobile money
+284,2025-09-01,49,Haircut,10.74,Walk-in,card
+818,2025-01-08,66,Custom Clothing,27.08,Instagram,card
+315,2025-11-23,469,Haircut,18.74,Walk-in,cash
+538,2025-02-16,249,Haircut,10.59,WhatsApp,cash
+665,2025-06-20,594,Haircut,15.67,Referral,cash
+240,2025-04-10,368,Haircut,19.73,Instagram,card
+136,2025-09-02,215,Haircut,18.27,WhatsApp,mobile money
+336,2025-07-21,287,Custom Clothing,56.27,Instagram,mobile money
+190,2025-07-01,623,Haircut,,Referral,card
+839,2025-06-13,64,Haircut,15.22,Instagram,mobile money
